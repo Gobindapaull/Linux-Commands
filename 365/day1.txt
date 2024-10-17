@@ -1,0 +1,16 @@
+DAY 1
+Red hat, Ubuntu, Linux arch, Linux mint
+echo "Hello World"
+Ctrl + shift + + = terminal zoom in
+Ctrl + - = terminal zoom out
+ls -lah
+ls
+Command -options arguments
+man ls
+ls -a
+ls -l
+mkdir testFolderLinux
+cd testFolderLinux
+cd ..
+cd - = home directory
+pwd
