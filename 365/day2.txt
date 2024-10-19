@@ -1,0 +1,12 @@
+DAY 2
+
+touch info.txt
+touch new\ info2.txt
+Ctrl + a = start of a command
+Ctrl + e = end of a command
+nano info.txt > ctrl + s > ctrl + x
+cat info.txt
+cat -n info.txt
+head info.txt = first 10 lines show up
+head -15 info.txt = 15 lines show up
+tail info.txt = last 10 lines show up
