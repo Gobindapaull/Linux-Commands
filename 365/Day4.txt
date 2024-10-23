@@ -1,0 +1,3 @@
+DAY 4
+cp index.js NewDirectory/
+rm index.js
