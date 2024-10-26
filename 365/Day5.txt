@@ -1,0 +1,7 @@
+DAY 5
+
+Ctrl + L = clear the terminal
+sudo ls -lah /root
+sudo -i
+exit
+ls -lh
