@@ -1,0 +1,5 @@
+DAY 6
+
+sudo cat /etc/shadow
+whoami
+date
