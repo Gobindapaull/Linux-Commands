@@ -1,0 +1,4 @@
+DAY 7
+ls -lah /home/
+ls -lh
+id ethsol
