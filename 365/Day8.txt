@@ -1,0 +1,4 @@
+
+DAY 8
+groups
+tail -n 3 /etc/passwd
