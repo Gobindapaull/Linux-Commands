@@ -8,3 +8,5 @@ sudo apt-get upgrade -y
 date
 
 exit
+
+rm -r * = remove folder with contents
