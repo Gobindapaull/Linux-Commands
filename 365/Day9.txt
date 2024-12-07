@@ -1,0 +1,21 @@
+pwd = present working directory
+ls = list
+mkdir = make directory
+touch = make file
+cd = change directory
+. = current directory
+.. = parent directory
+
+rm -rf = remove directory
+rmdir ttt = remove empty directory
+
+
+sudo apt instal ncal
+cal = calendar
+cal 12 2024 = december 2024
+
+redirect the output of a command to a file
+node -v > savepls.txt
+cat savepls.txt
+
+cat /etc/os-release
