@@ -1,0 +1,19 @@
+Memory Usage = free -h
+CPU Usage    = top
+Disk Usage   = df -h     
+Check the size of directories and files = = du -sh sweeperbot
+
+
+OS version = cat /etc/os-release
+hostnamectl
+
+
+Real-time network bandwidth monitor 
+
+sudo apt install nload    # Debian/Ubuntu
+sudo yum install nload    # CentOS
+nload
+
+
+
+-h = human-readable output
