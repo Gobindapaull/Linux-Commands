@@ -1,0 +1,6 @@
+ls -a = files and folders including hidden ones
+cp R dir1 dir2 = copy content from directory 1 to directory 2
+tar -cf mydir dir2 = compress file
+df -h = disk space check
+hostname -i = 127.0.0.1
+history
