@@ -4,3 +4,5 @@
 
 password protected zip file:
 - zip -e tx.zip Sload.sol tx.js package.json
+  or
+- zip -e selltokens *
