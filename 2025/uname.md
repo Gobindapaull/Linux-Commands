@@ -1,0 +1,9 @@
+- sudo apt show leafpad
+- sudo apt show msfconsole
+- sudo apt show hydra
+- sudo apt list nan*
+- uname
+- uname -r
+- uname -a
+- passwd
+- ping 8.8.8.8 or dns.google
