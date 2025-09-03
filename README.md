@@ -29,5 +29,5 @@ node -v
 npm -v
 
 AlmaLinux
-> .env
+= > .env
 
