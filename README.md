@@ -27,3 +27,7 @@ nvm use --lts
 
 node -v
 npm -v
+
+AlmaLinux
+> .env
+
