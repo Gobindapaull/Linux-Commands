@@ -1,0 +1,3 @@
+- ifconfig
+- ping ip_address
+- hydra -l root -P pass.txt ssh://ip_address:22
