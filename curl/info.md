@@ -1,0 +1,2 @@
+- curl -I https://fast.com/
+- curl https://fast.com/ -o fast.html
