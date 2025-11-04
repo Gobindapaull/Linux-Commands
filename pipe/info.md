@@ -3,3 +3,4 @@
 - ls -l
 - echo "hello world" > pipe_one
 - cat pipe_one
+- rm pipe_one
