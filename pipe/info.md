@@ -1,0 +1,5 @@
+- ps -aux | more
+- mkfifo pipe_one
+- ls -l
+- echo "hello world" > pipe_one
+- cat pipe_one
