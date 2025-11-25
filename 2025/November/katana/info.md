@@ -1,1 +1,9 @@
-
+- 500$ easy
+- find / -name foldername
+- katana github repo - https://github.com/projectdiscovery/katana
+- go version
+- Burp suite
+- https://www.redbull.com/in-en
+- rm -rf /usr/local/go
+- wget https://go.dev/dl/go1.23.3.linux-amd64.tar.gz
+- sudo tar -C /usr/local -xzf go1.23.3.linux-amd64.tar.gz
