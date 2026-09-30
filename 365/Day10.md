@@ -1,0 +1,6 @@
+- cat /etc/passwd
+- echo $USER
+- cat ~/.bash_history
+- ls -la ~/.ssh
+- sudo cat /etc/shadow
+- ~ = home dictory
